@@ -3,21 +3,15 @@ import java.util.Arrays;
 public class RemoveElement {
 
 	public static int removeElement(int[] nums, int val){
-		int j = nums.length - 1;
+		int i = 0;
 		int length = nums.length;
 
-		for(int i = 0; i < length; i++) {
+		while(i < length) {
 			if(nums[i] == val) {
-				if(nums[j] == val) {
-					j--;
-					i--;
-					length--;
-				} else {
-					nums[i] = nums[j];
-					j--;
-					length--;
-				}
-			}
+				nums[i] = nums[length - 1];
+				length--;
+			} else
+				i++;
 		}
 
 		System.out.println(Arrays.toString(nums));
@@ -25,8 +19,8 @@ public class RemoveElement {
 	}
 
 	public static void main(String[] args) {
-		int[] a = {3,2,2,3};
-		int val = 3;
+		int[] a = {4,2,3,5,4};
+		int val = 4;
 
 		removeElement(a, val);
 	}
