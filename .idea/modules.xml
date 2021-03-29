@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructures.iml" filepath="$PROJECT_DIR$/.idea/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/DesignLinkedList/DesignLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/DesignLinkedList/DesignLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/EvenDigits/EvenDigits.iml" filepath="$PROJECT_DIR$/Array/EvenDigits/EvenDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/FirstNodeofLoop/FirstNodeofLoop.iml" filepath="$PROJECT_DIR$/Linked List/FirstNodeofLoop/FirstNodeofLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.iml" filepath="$PROJECT_DIR$/Linked List/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/MaxConsecutiveOnes/MaxConsecutiveOnes.iml" filepath="$PROJECT_DIR$/Array/MaxConsecutiveOnes/MaxConsecutiveOnes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.iml" filepath="$PROJECT_DIR$/Linked List/RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/ReverseLinkedList/ReverseLinkedList.iml" filepath="$PROJECT_DIR$/Linked List/ReverseLinkedList/ReverseLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/SquaresofArray/SquaresofArray.iml" filepath="$PROJECT_DIR$/Array/SquaresofArray/SquaresofArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Template I/Template I.iml" filepath="$PROJECT_DIR$/Binary Search/Template I/Template I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
